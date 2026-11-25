@@ -1,10 +1,4 @@
 # staph-amr-nanopore-nf
----
-title: "Prédiction génomique de la résistance aux antibiotiques chez *Staphylococcus aureus* à partir de séquençage Oxford Nanopore"
-subtitle: "Rapport d'étape v1 : conception du pipeline et préparation des données"
-author: "Aïnata Zida"
-date: "Novembre 2026"
----
 
 # Prédiction génomique de la résistance aux antibiotiques chez *Staphylococcus aureus* à partir de séquençage Oxford Nanopore
 
